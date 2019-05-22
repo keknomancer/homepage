@@ -1,68 +1,32 @@
 <body>
+<head>
 <style>
-body {background-color:black
+body {background-color:#24002b
+}
+h1 {color:#ff9900
+}
+h2 {color:#ff9900
+}
+h3 {color:#ff9900
 }
 </style>
-<h1>
-<div>
-================
-</div>
-<div>
-SETH'S HOMEPAGE
-</div>
-<div>
-================
-</div>
-</h1>
+</head>
+<h1>================<br>SETH'S HOMEPAGE<br>================</h1>
 
-<h2  >
-SCHOOL
-</h2>
+<h2>SCHOOL</h2>
+<p><h3><a href=https://drive.google.com style=color:#ffb600>GOOGLE DRIVE</a></h3>
+<h3><a href=https://classroom.google.com/u/0/h style=color:#ffb600>CLASSROOM</a></h3></p>
 
-<div>
+<p>
+<h2>YOUTUBE:</h2>
+<h3><a href=https://youtube.com style=color:#ffb600>Youtube</a></h3>
+<h3><a href=file:///home/user/Downloads/software-scripts/Homepage/HPG-YTPL style=color:#ffb600>Playlists</a>
+</p>
 
-<h3>
-<a href=https://drive.google.com>GOOGLE DRIVE</a>
-</h3>
-<h3>
-<a href=https://classroom.google.com/u/0/h>CLASSROOM</a>
-</h3>
-
-</div>
-
-<div>
-
-<h2>
-YOUTUBE:
-</h2>
-
-<h3>
-<a href=https://youtube.com>Youtube</a>
-</h3>
-<h3>
-<a href=file:///home/user/Downloads/software-scripts/Homepage/HPG-YTPL>Playlists</a>
-</div>
-
-<div>
-<h2>
-4CHAN/8FAGGOT
-</h2>
-
-<h3>
-<a href=https://boards.4channel.org/g/>/g/</a>
-</h3>
-
-<h3>
-<a href=https://boards.4channel.org/x/>/x/</a>
-</h3>
-
-<h3>
-<a href=https://boards.4channel.org/tv/>/tv/</a> 
-</h3>
-
-<h3>
-<a href=https://8ch.net/pol/>8ch /pol/</a>
-</h3>
-
-</div>
+<p>
+<h2>4CHAN/8FAGGOT</h2>
+<h3><a href=https://boards.4channel.org/g/ style=color:#ffb600>/g/</a></h3>
+<h3><a href=https://boards.4channel.org/x/ style=color:#ffb600>/x/</a></h3>
+<h3><a href=https://boards.4channel.org/tv/ style=color:#ffb600>/tv/</a></h3>
+<h3><a href=https://8ch.net/pol/ style=color:#ffb600>8ch /pol/</a></h3>
 </body>
